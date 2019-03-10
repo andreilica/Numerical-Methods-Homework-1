@@ -1,0 +1,8 @@
+Mi-a facut placere sa lucrez la aceasta tema deoarece a fost ca o provocare pentru mine si consider ca mi-am dezvoltat abilitatile de a programa in Matlab(Octave). Implementarea efectiva a temei a durat 3-4 zile in care am lucrat cate 3-4 ore pe zi. Din aceasta tema am invatat multe lucruri noi care ma vor ajuta pe viitor!
+
+Prima problema o reprezinta schimbarea unui numar dintr-o baza intr-o alta baza ( baza cuprinsa intre 2 si 30). Mai intai am schimbat numarul din baza initiala in baza 10, iar apoi l-am transformat in baza dorita.
+
+A doua problema o reprezinta creare unei matrici de tip zigzag de ordin n. Am creat mai intai zona de deasupra diagonalei principale, iar apoi zona de sub diagonala principala, schimband intre linii si coloane atunci cand a fost cazul.
+ 
+A treia problema o reprezinta lucrul cu cell-arrays pentru a crea un arbore in care se gasesc toate literele alfabetului pentru a fi codificate/decodificate in/din codul morse. Problema cuprinde 5 fisiere cu functii pentru codificare/decodificare si creare a arborelui. 
+
